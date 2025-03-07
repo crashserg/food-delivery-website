@@ -1,0 +1,65 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Fitness Menu",
+      "descr": "The Fitness Menu is a new approach to meal preparation: more fresh vegetables and fruits. A product for active and healthy people. This is an entirely new product with an optimal price and high quality!",
+      "price": 9,
+      "id": "2141"
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Fasting Menu",
+      "descr": "The Fasting Menu is a careful selection of ingredients: complete absence of animal products, almond, oat, coconut, or buckwheat milk, and the right amount of proteins thanks to tofu and imported vegetarian steaks.",
+      "price": 14,
+      "id": "b977"
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Premium Menu",
+      "descr": "The Premium Menu features not only beautiful packaging design but also high-quality dish execution. Red fish, seafood, and fruits – a restaurant menu without the need to dine out!",
+      "price": 21,
+      "id": "bb08"
+    }
+  ],
+  "requests": [
+    {
+      "id": "747f",
+      "name": "afaf",
+      "phone": "35151"
+    },
+    {
+      "id": "be28",
+      "name": "ddddddd",
+      "phone": "+ 444 44 44 444"
+    },
+    {
+      "id": "378d",
+      "name": "asfsafa",
+      "phone": "3r"
+    },
+    {
+      "id": "302d",
+      "name": "asfaf",
+      "phone": "14215"
+    },
+    {
+      "id": "c608",
+      "name": "sdgsg",
+      "phone": "325252"
+    },
+    {
+      "id": "2274",
+      "name": "+ 33 534 453 644",
+      "phone": "Ann"
+    },
+    {
+      "id": "68fc",
+      "name": "+7 243 34 34",
+      "phone": "Serr"
+    }
+  ]
+}
